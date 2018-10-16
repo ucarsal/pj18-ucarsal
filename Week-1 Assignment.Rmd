@@ -1,0 +1,35 @@
+---
+title: "ASSIGNMENT - WEEK-1"
+author: "Salih UÇAR"
+date: "15 Ekim 2018"
+output: html_document
+---
+
+
+
+## About Myself
+
+I'm Salih UCAR. I am mechanical design engineer in General Electric. I am responsible for doing mechanical calculations and creating 3D and 2D drawings of power transformers in addition to this I follow the manufacturing processes and test processes.
+I'm planning to apply data science skills on industrial applications such as predictive maintenance and testing fatigue analysis of mechanical components.
+
+Here are the 3 examples of R applications and links below.
+
+## Teaching R to New Users: From tapply to Tidyverse
+
+The intentional ambiguity of the R language, inherited from the S language, is one of its defining features. Is it an interactive system for data analysis or is it a sophisticated programming language for software developers? The ability of R to cater to users who do not see themselves as programmers, but then allow them to slide gradually into programming, is an enduring quality of the language and is what has allowed it to gain significance over time. As the R community has grown in size and diversity, R’s ability to match the needs of the community has similarly grown. However, this growth has raised interesting questions about R’s value proposition today and how new users to R should be introduced to the system. I will discuss some lessons learned from my experience teaching R to new users and from observing the evolution of the language over the past 20 years.
+
+<a href="<a href="https://youtu.be/prk-0G689GU">Teaching R to New Users: From tapply to Tidyverse</a>
+
+## R Beneftis and Opportunities to Help Industry Clients
+
+R is used to help customers globally to address business challenges, across sectors including; agriculture, aviation, banking, energy, government, health, telecommunications and utilities. Also R in our daily project work and also help clients with data science team development. hoIt is demonstrated by the company to use R, and RShiny and the benefits realised. The company discuss our journey, data-driven approach, workflow and industry observations and learning with R, e.g. observations regarding Big Data with R, version control and some of the pain points & work-arounds. Examples and experiences are shown in the video.
+
+<a href="<a href="https://www.youtube.com/watch?v=ffpH3dMb0nE&t=758s">Using R to help industry clients – The Benefits and Opportunities</a>
+
+
+## Integrating R Into a Production Data Environment
+
+A case example of using Oracle database services and R for fisheries management in Alaska.Catch and economic information from fisheries off Alaska are critical for the management and conservation of marine resources. The National Marine Fisheries Service, Alaska Regional Office, uses an Oracle database to monitor and store federal fishery catch data off Alaska. Annually, the system processes over 2 million+ fishery catch transactions, and it currently houses over 25 years of historical fishery data. Information in the database includes details on harvested fish, estimates of bycatch, at-sea observations of discards, electronic monitoring of catch (video-derived estimates), geospatial information, and complex business rules to monitor catch allocations to ensure overfishing does not occur. Our paper provides an high-level overview of the system architecture, with a focus on our use of R-Cran for both development (e.g., simulation and testing) and production (e.g., statistical features) within our Oracle database.
+
+<a href="<a href="https://www.youtube.com/watch?v=SDvFpPCfduk">Integrating R Into a Production Data Environment</a>
+
